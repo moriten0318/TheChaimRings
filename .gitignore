@@ -54,6 +54,7 @@ ExportedObj/
 *.tga
 *.jpg
 *.fbx
+*.fbx.meta
 *.anim
 *.mp3
 *.ogg
